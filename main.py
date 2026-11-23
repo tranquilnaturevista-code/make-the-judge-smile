@@ -12,7 +12,7 @@ lady slipping an extra krupuk into my bag, "for the road". It is
 warm (a stranger's quiet kindness), it turns somewhere unexpected
 (the kindness is carried home and crunched at every red light),
 it has one concrete detail (the krupuk, the whisper, the red
-lights), and it is told in its own words — no greeting-card
+lights, the warmth from her wok), and it is told in its own words — no greeting-card
 phrasing, no borrowed sentiment.
 """
 
@@ -22,7 +22,8 @@ from pathlib import Path
 ENTRY_TEXT = (
     "This morning the warung lady slipped an extra krupuk into my "
     "bag and whispered, 'for the road' \u2014 I carried her kindness "
-    "all the way home, crunching it at every red light."
+    "all the way home, crunching it at every red light, still warm "
+    "from her wok."
 )
 
 

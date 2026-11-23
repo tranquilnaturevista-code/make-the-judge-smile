@@ -10,10 +10,10 @@ The entry is one line of at most 200 characters about a small good
 thing that happened today. This morning, a warung lady slipped an
 extra krupuk into my bag and whispered "for the road" — and the
 line carries that kindness all the way home, crunching it at every
-red light. It is warm (a stranger's quiet kindness), it turns
+red light, still warm from her wok. It is warm (a stranger's quiet kindness), it turns
 somewhere unexpected (the kindness itself becomes the thing carried
 home), it has one concrete detail (the krupuk, the whisper, the red
-lights), and it is told in its own words — no greeting-card
+lights, the warmth from her wok), and it is told in its own words — no greeting-card
 phrasing, no borrowed sentiment.
 
 `main.py` writes that text, exactly as written, to
